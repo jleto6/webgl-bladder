@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Bladder Simulaton-0.1.0";
 const contentToCache = [
-    "Build/WebGL Bladder Sim.loader.js",
-    "Build/WebGL Bladder Sim.framework.js",
-    "Build/WebGL Bladder Sim.data",
-    "Build/WebGL Bladder Sim.wasm",
+    "Build/webgl-bladder.loader.js",
+    "Build/webgl-bladder.framework.js",
+    "Build/webgl-bladder.data",
+    "Build/webgl-bladder.wasm",
     "TemplateData/style.css"
 
 ];
